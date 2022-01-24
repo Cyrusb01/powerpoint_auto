@@ -16,9 +16,21 @@ BFC_TWIT_ACCESS_TOKEN\
 BFC_TWIT_ACESS_TOKEN_SECRET
 
 ## Set up Virtual Enviornment 
-run the following command
-conda env create -f environment.yml
+run the following command\
+conda env create -f environment.yml\
 this will create the env used by the batch file, the environment is in python 3.6 for a reason
 
 ## Setup Windows Task Scheduler 
+1. Open task scheduler \ 
+2. Click action, and "create basic task" \
+3. Name it whatever you want, ex. "BFC_Twitter" \
+4. Set timing when you want it to run. \
+5. keep "start a program" \
+6. Browse for auto_run.bat which is in this directory\
+7. In the "Start in:", navigate to this directory Ex. C:\Onramp\powerpoint_auto\
+8. Click Finish
+
+
+
+
 
