@@ -1,0 +1,34 @@
+
+
+
+
+
+
+Set up environment variables: 
+Ask Cyrus in slack for these 
+INVESTOR_KEY
+INVESTOR_KEY_ID 
+API_KEY,
+API_SECRET_KEY,
+ACCESS_TOKEN,
+ACESS_TOKEN_SECRET,
+
+Set up virtual environment:
+run the following command
+conda env create -f environment.yml
+this will create the env used by the batch file, the environment is in python 3.6 for a reason
+
+
+
+
+
+Open Windows task scheduler 
+click action, create task 
+name it, maybe "BFC_Twitter" 
+open task scheduler
+Create basic task 
+Name it whatever you want, ex. "BFC_Twitter" 
+set timing when you want it to run. 
+keep "start a program" 
+browse for auto_run.bat which is in this directory,
+and then in the Start in: navigate to this directory Ex. C:\Onramp\powerpoint_auto
