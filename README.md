@@ -7,7 +7,7 @@ This was supposed to be setup on a server, but due to using the pywin32 package 
 Using an azure windows virtual machine would be difficult to debug and not free, so I thought having it setup on someones windows machine would be the best. 
 
 ## Set Up Environment Variables 
-Ask Cyrus \
+Ask Cyrus for the following variables \
 INVESTOR_KEY\
 INVESTOR_KEY_ID \
 BFC_TWIT_API_KEY\
