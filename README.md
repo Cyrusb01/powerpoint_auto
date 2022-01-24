@@ -25,7 +25,7 @@ this will create the env used by the batch file, the environment is in python 3.
 2. Click action, and "create basic task" 
 3. Name it whatever you want, ex. "BFC_Twitter" 
 4. Set timing when you want it to run. 
-5. keep "start a program" 
+5. Keep "start a program" 
 6. Browse for auto_run.bat which is in this directory
 7. In the "Start in:", navigate to this directory Ex. C:\Onramp\powerpoint_auto
 8. Click Finish
