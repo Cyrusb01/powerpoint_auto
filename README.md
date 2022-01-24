@@ -7,12 +7,12 @@ This was supposed to be setup on a server, but due to using the pywin32 package 
 Using an azure windows virtual machine would be difficult to debug and not free, so I thought having it setup on someones windows machine would be the best. 
 
 ## Set Up Environment Variables 
-Ask Cyrus 
-INVESTOR_KEY
-INVESTOR_KEY_ID 
-BFC_TWIT_API_KEY
-BFC_TWIT_API_SECRET_KEY
-BFC_TWIT_ACCESS_TOKEN
+Ask Cyrus \
+INVESTOR_KEY\
+INVESTOR_KEY_ID \
+BFC_TWIT_API_KEY\
+BFC_TWIT_API_SECRET_KEY\
+BFC_TWIT_ACCESS_TOKEN\
 BFC_TWIT_ACESS_TOKEN_SECRET
 
 ## Set up Virtual Enviornment 
