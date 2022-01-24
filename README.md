@@ -1,7 +1,7 @@
 # powerpoint_auto
 ## Overview 
 This repo reads data from blockforce google sheets, and updates the performance update powerpoint. After updating powerpoint with the latest data it saves the ppt as images to then post on twitter 
-#How to set up
+# How to set up
 ## Disclaimers
 This was supposed to be setup on a server, but due to using the pywin32 package (windows client) this cannot be ran on a linux server. 
 Using an azure windows virtual machine would be difficult to debug and not free, so I thought having it setup on someones windows machine would be the best. 
